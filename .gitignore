@@ -1,0 +1,3 @@
+# Tig submodule files
+.tig-remote.git/
+.tig.backup/

@@ -1,0 +1,4 @@
+[submodule ".tig"]
+	path = .tig
+	url = /Users/matthewfan/Desktop/tictactoe2/.tig-remote.git
+	branch = .
